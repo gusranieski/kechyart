@@ -1,9 +1,17 @@
-import React from 'react'
+import React from "react";
+import Header from "./components/Header/Header";
+import Gallery from "./components/Gallery/Gallery";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
-    <div>Acá va a ir toda la web</div>
-  )
+    <div>
+      <Header />
+      <h1>Galería de acuarelas</h1>
+      <Gallery />
+      <Footer />
+    </div>
+  );
 }
 
-export default App
+export default App;
