@@ -4,19 +4,19 @@ function Gallery() {
   const images = [
     {
       id: 1,
-      src: "/src/assets/Imagen01.jpg",
+      src: "/assets/Imagen01.jpg",
     },
     {
       id: 2,
-      src: "/src/assets/Imagen02.jpg",
+      src: "/assets/Imagen02.jpg",
     },
     {
       id: 3,
-      src: "/src/assets/Imagen03.jpg",
+      src: "/assets/Imagen03.jpg",
     },
     {
       id: 4,
-      src: "/src/assets/Imagen04.jpg",
+      src: "/assets/Imagen04.jpg",
     },
   ];
 

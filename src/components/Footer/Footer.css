@@ -1,0 +1,18 @@
+.footer-container {
+    /* background-color: #f2f2f2; */
+    background-color: var(--color-secundario);
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+
+.footer-container a {
+    /* color: #333; */
+    color: var(--color-cuarto);
+    text-decoration: none;
+}
+
+.footer-container a:hover {
+    color: #ff5733;
+}

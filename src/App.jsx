@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Header />
-      <h1>Galería de acuarelas</h1>
+      <h1>Kechyart</h1>
       <Gallery />
       <Footer />
     </div>
